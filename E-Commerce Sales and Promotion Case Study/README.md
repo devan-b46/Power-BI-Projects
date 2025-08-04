@@ -6,12 +6,21 @@
 
 This repository has a Power BI Desktop Case Study on E-Commerce Sales and Promotion Data.
 
-**The dashboard is developed by Devanshu Bharti.**
+**These dashboards are developed by Devanshu Bharti.**
+
+---
 
 ![Dashboard](images/Dashboard1.png)
 
 ---
 
+Category-Wise Sales Analysis:
+
+---
+
+![Category-wise_dashboard](images/Category-wise_dashboard_2.png)
+
+---
 
 ## **Goal of the case study:**
 
